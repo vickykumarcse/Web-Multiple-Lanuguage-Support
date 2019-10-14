@@ -21,7 +21,7 @@ in your HTML File or in angular.json file.
 <br/>Now you can easily include the script tag in your html file.
 
 ```bash
-    <script src="https://unpkg.com/web-multi-lang-support@1.0.1/dist/web-multi-lang-support.js"></script>
+<script src="https://unpkg.com/web-multi-lang-support@1.0.1/dist/web-multi-lang-support.js"></script>
 ```
 
 ## Usage
