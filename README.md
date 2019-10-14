@@ -18,10 +18,12 @@ in your HTML File or in angular.json file.
 ### CDN Link
 
 [https://unpkg.com/web-multi-lang-support@1.0.1/dist/web-multi-lang-support.js](https://unpkg.com/web-multi-lang-support@1.0.1/dist/web-multi-lang-support.js)
-Now you can easily inclue the script tag in your html file.
+<br/>Now you can easily include the script tag in your html file.
+
 ```bash
     <script src="https://unpkg.com/web-multi-lang-support@1.0.1/dist/web-multi-lang-support.js"></script>
 ```
+
 ## Usage
 
 1. Default Translator Option.
