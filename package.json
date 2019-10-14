@@ -1,0 +1,17 @@
+{
+  "name": "web-multi-lang-support",
+  "version": "1.0.1",
+  "description": "Provides multiple language support option in your website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "Multi",
+    "Language",
+    "Support",
+    "Internationalization"
+  ],
+  "author": "Vicky Kumar",
+  "license": "MIT"
+}
